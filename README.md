@@ -3,6 +3,7 @@
 **!!THIS IS CURRENTLY ENTIRELY UNTESTED!!**
 
 Shakti | शक्ति: (Divine, universal, feminine) Power
+
 Mukti | मुक्ति: Freedom
 
 An alternative front/analog board design for the ORN8/Ornate Criminal (O_C T4.1) Eurorack module.
