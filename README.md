@@ -1,6 +1,8 @@
-# Shakti-aur-Mukti
-
 **!!THIS IS CURRENTLY ENTIRELY UNTESTED!!**
+
+**TODO:** Add all the files! No files will be added until I have tested the very first batch of prototypes.
+
+## Shakti aur Mukti (Power and Freedom)
 
 Shakti | शक्ति: (Divine, universal, feminine) Power<br>
 Mukti | मुक्ति: Freedom
